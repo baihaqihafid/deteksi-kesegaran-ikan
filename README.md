@@ -2,8 +2,9 @@
 
 Sistem deteksi kesegaran ikan berbasis pengolahan citra digital menggunakan analisis warna pada area mata dan insang ikan.
 
-## Mata Kuliah
-Pengolahan Citra Digital — Proposal UTS
+## Tampilan Program
+
+![Tampilan Program](screenshot.png)
 
 ## Metode
 - **RGB Analysis** — analisis nilai warna merah, hijau, biru
