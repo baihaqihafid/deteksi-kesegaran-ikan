@@ -3,12 +3,10 @@
 Sistem deteksi kesegaran ikan berbasis pengolahan citra digital menggunakan analisis warna pada area mata dan insang ikan.
 
 ## Tampilan Program
-
 <p align="center">
-  ![Tampilan Program](screenshot.png)
-  ![Tampilan Program](screenshot2.png)
-  width="40%" />
-</p>
+  <img src="screenshot.png" width="45%" />
+  <img src="screenshot2.png" width="45%" />
+</p>>
 
 ## Metode
 - **RGB Analysis** — analisis nilai warna merah, hijau, biru
